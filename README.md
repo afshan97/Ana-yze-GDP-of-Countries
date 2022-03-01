@@ -1,4 +1,4 @@
-# Anal-yze-GDP-of-Countries
+# Analyze GDP of Countries
 DESCRIPTION
 
 Problem Statement: Evaluate the dataset containing the GDPs of different countries to:
